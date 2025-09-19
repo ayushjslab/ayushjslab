@@ -42,20 +42,6 @@
 
 ---
 
-### 🚀 Featured Projects
-✨ Here are some of my coolest builds:
-
-- 🔹 [**Twitter Wrap 2022**](https://github.com/AyushSaini00/twitter-wrap-2022)  
-  Discover your top Twitter moments like never before.  
-
-- 🔹 [**tbio**](https://github.com/AyushSaini00/tbio)  
-  Generate your **Twitter bio with AI** (GPT-3 powered).  
-
-- 🔹 [**Twitter Wrap 2021**](https://github.com/AyushSaini00/twitter-wrap-2021)  
-  Wrapped up Twitter memories beautifully.  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
